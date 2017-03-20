@@ -9,5 +9,6 @@ int main(int argc, char *argv[])
 
 	printf("she is very stupid\n");
 	printf("Oh He is so kind and smart\n");
+	printf("she is so cute\n");
 	return 0;
 }
