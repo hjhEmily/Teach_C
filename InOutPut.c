@@ -6,6 +6,7 @@ void inputString(Company **pInfor)
 	int *index=&((*pInfor)->num), i=0;
 	Infor *members=(*pInfor)->human;
 
+	members=(Infor*)calloc(100, sizeof(Infor));
 
 	while(TRUE)
 	{
